@@ -1,0 +1,23 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/cosmix-app/cosmix-extension-template/builds/ExampleProvider.csx",
+        "status": 1,
+        "version": 1,
+        "name": "ExampleProvider",
+        "internalName": "ExampleProvider",
+        "authors": [
+            "Cloudburst",
+            "Luna712"
+        ],
+        "description": "Lorem ipsum",
+        "fileSize": 4817,
+        "repositoryUrl": "https://github.com/cosmix-app/cosmix-extension-template",
+        "language": "en",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-1e7e59a72ceb6440140c24b600632a1f310fab896917fefc96d425ec5804bc56"
+    }
+]
