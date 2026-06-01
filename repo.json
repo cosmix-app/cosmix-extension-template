@@ -1,0 +1,8 @@
+{
+  "name": "ExampleProvider Repository",
+  "description": "Official repository for the ExampleProvider extension.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/cosmix-app/cosmix-extension-template/builds/plugins.json"
+  ]
+}
