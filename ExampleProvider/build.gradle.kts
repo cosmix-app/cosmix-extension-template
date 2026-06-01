@@ -18,6 +18,7 @@ cosmix {
 
     language = "en"
     iconUrl = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png"
+    isCrossPlatform = true
 }
 
 android {
