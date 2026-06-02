@@ -246,6 +246,9 @@ Users can install your entire repository over the air by adding your `plugins.js
 **Q: How do I support multiple languages?**
 - **Fix:** Create a separate Provider class for each language and override the `lang` variable (e.g., `lang = "es"`), then register all of them sequentially in your Plugin class's `load()` method!
 
+**Q: Do I need to manually specify an `iconUrl` in `build.gradle.kts`?**
+- **Answer:** No! The Cosmix build system now features an **Automatic Favicon Fetcher**. If you completely remove the `iconUrl` line from your `cosmix` block, the plugin will scan your code for your `mainUrl` and automatically fetch the best available 128px favicon directly from the website during compilation!
+
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/cosmix-extensions/Anime-Dekho/main/assets/icons/heart.svg" width="32" height="32"/>
