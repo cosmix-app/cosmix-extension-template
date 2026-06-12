@@ -10,7 +10,7 @@
             "Luna712"
         ],
         "description": "Lorem ipsum",
-        "fileSize": 4415,
+        "fileSize": 4440,
         "repositoryUrl": "https://github.com/cosmix-app/cosmix-extension-template",
         "language": "en",
         "tvTypes": [
@@ -18,7 +18,7 @@
         ],
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7f087a5f3cfedb36a1c81251b638806767b09a8b319b546c0fa6c3ef66cbbf61",
+        "fileHash": "sha256-f46b43894734b7d957d30078c5e10d55f51c7ccdb2d90ada13a8a0271bfaf9ac",
         "jarFileSize": 5217,
         "jarUrl": "https://raw.githubusercontent.com/cosmix-app/cosmix-extension-template/builds/ExampleProvider.jar",
         "jarHash": "sha256-b93c4c71b220566cce936c23a4686076b42d6a40633229afe1ea93ce2179d5f8"
